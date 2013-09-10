@@ -1,0 +1,7 @@
+tyler:
+	first_name: "Tyler"
+	last_name: "Pearce"
+	email: "tylerpearce@hotmail.com"
+	profile_name: "tylerpearce"
+	password: "password"
+	password_confirmation: "password"
